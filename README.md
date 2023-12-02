@@ -4,10 +4,6 @@ The documentation for 'The Overlooked Hotels' MERN project.
 ## R1. Description of your website, including:
 ### Purpose
 
-Our application is a cutting-edge promotional website for a fictional accommodation company that immerses users in the spine-chilling atmospheres of iconic horror locations like The Overlook Hotel and The Bates Motel. As technology enthusiasts, we've been enlisted by the owner of one of these establishments to catapult his business into the digital era. With an intuitive booking system, our platform not only enhances the customer experience by enabling seamless online bookings but also assists the proprietor in modernizing his operations.
-
-// rewrite
-
 Our application serves as a strategic solution crafted for a business aiming to modernize their approach to accommodation management. With a focus on bringing their business into the digital age, our platform provides an intuitive and efficient way for customers to explore and secure bookings at an intriguing range of accommodations. Tailored to meet the needs of a forward-thinking company, the application streamlines the booking process, encouraging customers to engage online and fostering increased customer numbers. By embracing technology, our goal is to empower the business to efficiently manage bookings, keep information current, and ultimately elevate their business in the competitive landscape of the hospitality industry.
 
 ### Functionality / features
@@ -34,10 +30,6 @@ Seamlessly integrate a calendar feature, allowing users to view availability, sc
 
 ### Target audience
 
-Our spine-tingling application caters to horror enthusiasts, pop culture aficionados, and adventure seekers who crave an immersive and unique lodging experience. If you're a fan of iconic horror locations like The Overlook Hotel or The Bates Motel, our platform is tailored just for you. We invite thrill-seekers looking to book accommodations in these fictional, yet eerily familiar, settings. Whether you're planning a themed getaway or simply seeking a memorable stay, our website offers a seamless booking experience that marries the allure of horror pop culture with the convenience of modern technology. Join us as we bring the essence of your favorite horror tales to life in a one-of-a-kind lodging adventure.
-
-// rewrite
-
 Our accommodation booking website is designed for individuals seeking a hassle-free and convenient way to plan and book their stays. Whether you're a business traveler in need of efficient lodging solutions, a family planning a vacation, or an individual embarking on a spontaneous getaway, our platform caters to a diverse audience looking for simplicity in the accommodation booking process. With a user-friendly interface and an array of options, our target audience includes anyone seeking a reliable and straightforward platform to discover and reserve accommodations that suit their unique preferences and travel needs.
 
 ### Tech stack
@@ -50,9 +42,11 @@ Our tech stack combines server-side efficiency with Node.js and Express.js, and 
 
 ## R2. Dataflow Diagram
 
+![DFD](/docs/diagrams/DFD.png)
+
 ## R3. Application Architecture Diagram
 
-![AAP](/docs/diagrams/AAP-WIP.png) *Still working on this, missing deployment*
+![AAD](/docs/diagrams/AAD.png)
 
 ## R4. User Stories
 
