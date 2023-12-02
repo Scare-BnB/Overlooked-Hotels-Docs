@@ -11,10 +11,11 @@ Our application serves as a strategic solution crafted for a business aiming to 
 Our application redefines the way users experience accommodations with a feature-rich and user-friendly platform. Key functionalities include:
 
 **Immersive Booking System**:
-Navigate through iconic horror locations like The Overlook Hotel and The Bates Motel with our intuitive booking system, allowing users to easily secure accommodations for an unforgettable stay.
+
+Browse a selection of fascinating locations and easily book an unforgettable stay with our intuitive booking system.
 
 **User-Friendly Interface**:
-Enjoy a visually captivating and responsive interface designed with HTML, CSS, and JavaScript, ensuring a seamless and enjoyable user experience across devices.
+Enjoy a visually captivating and responsive interface designed with HTML, CSS, and JavaScript, ensuring a seamless and enjoyable user experience across all devices.
 
 **JWT-based Authentication**:
 Prioritize user security with JWT (JSON Web Token) authentication, ensuring a secure and efficient process for user identification and authorization in the application's API.
@@ -103,6 +104,6 @@ As a business owner, I want to prioritize the security and privacy of user data,
 
 ## R6. Screenshots of your Trello board throughout the duration of the project
 
-![Trello1](/docs/trello/Main1.png)
-![Concept](/docs/trello/Concept.png)
-![Standups](/docs/trello/StandUps.png)
+![Concept](/docs/trello/concept.png)
+![StandUps](/docs/trello/standups.png)
+![Requirements](/docs/trello/requirements.png)
