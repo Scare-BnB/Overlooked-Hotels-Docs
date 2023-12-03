@@ -1,5 +1,6 @@
-# Overlooked-Hotels-Docs
-The documentation for 'The Overlooked Hotels' MERN project.
+![logo](/docs/logo_docs.png)
+
+The documentation for 'The Overlooked Hotels' MERN project by Kelsey Hardy and Alex Karacsay
 
 ## R1. Description of your website, including:
 ### Purpose
@@ -54,7 +55,19 @@ Our tech stack combines server-side efficiency with Node.js and Express.js, and 
 
 ### Customer Side
 
-### 
+Stephen, 76 - Author
+
+"I want an easy way to book stays in unique and inspiring locations. I want to view and support local businesses instead of large chain hotels."
+
+Georgie, 21 - Tourist
+
+"I'm a penny-wise frequent traveller who wants to book affordable accomodation without needing to speak on the phone."
+
+Randall, 50 - Frequent business traveller
+
+"I constantly travel for business looking for an efficient way to view and book acommodation during my busy day"
+
+**Requirements:**
 
 **User Registration**:
 As a new user, I want to create an account with my email and password, so I can access personalized features and view my booking history.
@@ -92,22 +105,18 @@ As a user, I want access to customer support or an FAQ section to get help with 
 
 "I’ve been in the hotel management game since 1980 when I took over as caretaker of the Grand Lodge. Back then we were the biggest and busiest hotel on the mountain. In the last few years however,  we’ve noticed a sharp decline in patronage due to heavy competition in the local town. All of those businesses had one thing in common, an “online presence”. I decided to hire a team to build a website promoting the business and provide a way for guests to book a stay at the Lodge without needing to phone ahead.
 
-Two fellow business owners in a similar position heard what I was doing and contacted me regarding my website idea. We decided to join forces and create a business collective, The Overlooked Hotels. We agreed that I would be the admin in charge of managing the website."
+Two fellow business managers in a similar position heard what I was doing and contacted me regarding my website idea. We decided to join forces and create a business collective, The Overlooked Hotels. We agreed that I would be the admin in charge of managing the website and bookings."
 
 **Annie, 44 - Manager of *The Wilkes Cabin***
 
 "I’m a new business owner who has recently entered into the bed and breakfast game. I understand the importance of having my business available to view online but have no idea how to make it happen. My good friend Jack has engaged the services of a development team and I decided to collaborate with him. He will take care of the technical side of things and I will be able to view the bookings."
 
-**Norman, - Manager of *The Fairvale Motel***
+**Norman, 25 - Manager of *The Fairvale Motel***
 
-"I have just become the manager of my family's motel and 
-
-
+"I have just become the manager of my family's motel and needed help with running a business. I found out about Jack's Overlooked Hotels collective and decided to join. Our motel doesn't have a website and I want to promote it!"
 
 
-
-
-
+**Requirements:**
 
 **Optimize Booking Process**:
 As a business owner, I want to streamline the booking process to improve efficiency and reduce the time it takes for users to complete a reservation, ultimately increasing the number of successful bookings.
