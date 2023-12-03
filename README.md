@@ -102,7 +102,12 @@ As a business owner, I want an efficient calendar management system to handle ac
 **Ensure Data Security and Privacy**:
 As a business owner, I want to prioritize the security and privacy of user data, implementing measures to protect sensitive information and build trust among users.
 
-## R5. Wireframes for multiple standard screen sizes, created using industry standard software
+## R5. Wireframes
+![Home](/docs/wireframes/homepage.png)
+![Locations](/docs/wireframes/locations.png)
+![Contact](/docs/wireframes/contactpage.png)
+![Bookings](/docs/wireframes/bookings.png)
+![Login](/docs/wireframes/login.png)
 
 ## R6. Screenshots of your Trello board throughout the duration of the project
 
