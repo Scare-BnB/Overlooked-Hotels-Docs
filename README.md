@@ -33,6 +33,8 @@ Seamlessly integrate a calendar feature, allowing users to view availability, sc
 
 Our accommodation booking website is designed for individuals seeking a hassle-free and convenient way to plan and book their stays. Whether you're a business traveler in need of efficient lodging solutions, a family planning a vacation, or an individual embarking on a spontaneous getaway, our platform caters to a diverse audience looking for simplicity in the accommodation booking process. With a user-friendly interface and an array of options, our target audience includes anyone seeking a reliable and straightforward platform to discover and reserve accommodations that suit their unique preferences and travel needs.
 
+Our target audience also encompasses forward-thinking business owners within the hospitality industry seeking to embrace technology for a competitive edge. Tailored for entrepreneurs keen on modernizing their accommodation management approach, our platform caters to those eager to increase online bookings. Our platform enables business owners to efficiently manage bookings, attract a broader customer base, and transition into the era of online accommodation reservations.
+
 ### Tech stack
 
 Our application harnesses a robust and innovative tech stack to deliver a seamless and immersive user experience. Leveraging the power of modern web development, we employ HTML and CSS for a visually engaging and responsive interface. The dynamic client-side interactions are crafted using JavaScript, ensuring a fluid and interactive user journey.
@@ -104,6 +106,6 @@ As a business owner, I want to prioritize the security and privacy of user data,
 
 ## R6. Screenshots of your Trello board throughout the duration of the project
 
-![Concept](/docs/trello/concept.png)
-![StandUps](/docs/trello/standups.png)
+![Concept](/docs/trello/Concept.png)
+![StandUps](/docs/trello/StandUps.png)
 ![Requirements](/docs/trello/requirements.png)
