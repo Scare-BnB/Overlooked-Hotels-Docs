@@ -145,3 +145,9 @@ As a business owner, I want to prioritize the security and privacy of user data,
 ![Concept](/docs/trello/Concept.png)
 ![StandUps](/docs/trello/StandUps.png)
 ![Requirements](/docs/trello/requirements.png)
+
+**References**
+
+Royalty-free images used in wireframes from [Unsplash.com](https://unsplash.com/)
+
+Original logo design by Alex
