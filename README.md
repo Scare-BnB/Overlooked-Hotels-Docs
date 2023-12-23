@@ -69,6 +69,34 @@ On the server side, we rely on Node.js to handle the backend, providing a scalab
 
 Our tech stack combines server-side efficiency with Node.js and Express.js, and secure data management with MongoDB.
 
+**Frameworks**: 
+- React
+- ExpressJS
+
+**Database**:
+- MongoDB
+
+**Development Servers**: 
+- Vite (Front-end)
+- Nodemon (Back-end)
+
+**Packages and libraries**: 
+- react-router-dom
+- Tailwind CSS
+- Mongoose
+- Daisy UI (Header and Footer elements)
+- react-responsive-carousel
+- react-calendar
+- Axios
+- CORS
+- BcryptJS
+- Json-Web-Token
+
+**Software**:
+- Postman
+- Pixelmator Pro 
+- Figma
+
 ## R2. Dataflow Diagram
 
 ![DFD](/docs/diagrams/DFD.png)
