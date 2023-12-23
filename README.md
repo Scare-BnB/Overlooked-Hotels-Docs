@@ -14,6 +14,10 @@ The documentation for 'The Overlooked Hotels' MERN project by Kelsey Hardy and A
 - Client: https://github.com/Scare-BnB/overlooked-hotels-client
 - Server: https://github.com/Scare-BnB/overlooked-hotels-server
 
+### Trello:
+https://trello.com/b/9n8WNsKs
+
+
 ## Start Server
 
 To run the server, open the terminal and change into the server folder `cd server`. 
@@ -225,17 +229,32 @@ Provided a User is logged in, the following operations will execute unless they 
 #### DELETE/ deletes a Review from the database
 ![delete](/docs/endpoints/Delete%20Review.png)
 
+### Manual testing
+![front-end](/docs/testing/front-end-testing.png)
+![back-end](/docs/testing/back-end-testing.png)
+
 
 ## R6. Screenshots of your Trello board throughout the duration of the project
 
 ![Concept](/docs/trello/Concept.png)
 ![StandUps](/docs/trello/StandUps.png)
 ![Requirements](/docs/trello/requirements.png)
-
+![Overview](/docs/trello/partb-trello1.png)
+![Front-end](/docs/trello/partb-trello2.png)
+![CRUD](/docs/trello/partb-trello3.png)
 
 
 **References**
 
-Royalty-free images used in wireframes from [Unsplash.com](https://unsplash.com/)
+'The Overlooked Hotels' original logo design by Alex
 
-Original logo design by Alex
+Royalty-free images used in wireframes and site from [Unsplash.com](https://unsplash.com/)
+
+Thanks to: 
+- Nick Hillier
+- Clay Banks
+- Steve Harvey
+- Dylan Fout
+- Mathis Jrdl
+- Eberhard Grossgasteiger
+
