@@ -194,6 +194,16 @@ As a business owner, I want to prioritize the security and privacy of user data,
 ![Bookings](/docs/wireframes/bookings.png)
 ![Login](/docs/wireframes/login.png)
 
+### Design updates from PART B
+- Header is completely opaque in order to have animated image carousel underneath
+- Removed drop-down menu for locations, consolidated on single page
+- Removed 'About' link and consolidated on index page
+- Removed 'Bookings' link as not required for users not logged-in
+- No 'back-to-top' button. Was a nice-to-have but culled due to lack of time
+- Colour scheme changed to darker theme for easier viewing overall.
+- Site font set to sans serif for ease of reading
+
+
 ## Endpoints and Testing
 
 This API was developed to implement CRUD operations throughout the different model controllers in this application. The different endpoints focus on the four models that have been established in the database: Users, Accommodation, Bookings and Reviews.
